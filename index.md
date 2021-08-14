@@ -1,9 +1,64 @@
-## Welcome to GitHub Pages
+## Bem vindo
 
-You can use the [editor on GitHub](https://github.com/hebertluiz/hebertluiz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hebert ou Hebe para os íntimos, trabalho com TI/Telecom.  
+Tenho foco em administração de sistemas linux e sou amante do universo Open-Source. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nessa jornada de aprendizado esbarrei com diversas tecnologias nas areas abaixo.
 
+* <abbr title="Infrastructura as Code">IaC</abbr>
+* Segurança de sistemas
+* Telecomunicações 
+* Desenvolvimento Ágil
+* Redes Linux 
+
+---
+
+## Projetos
+<!-- TODO Adicionar referencia para projetos onde trabalhei e auxiliei -->
+
+--- 
+
+## Mais detalhes
+Segue abaixo um pouco do que conheci e utilizo no dia-a-dia.
+
+#### VoIP/Telecom  
+- Asterisk/FreePBX
+- openSIPS
+- SIP
+- WebRTC
+- R2/ISDN 
+
+#### Monitoramento
+- Icinga
+- Zabbix
+- Grafana
+
+#### Orquestração de containers e servidores  
+- Puppet
+- Ansible
+- Docker
+
+
+#### Linguagens  
+- Python
+- JavaScript/Node.js
+- Shellscript
+- Powershell
+- JavaScript
+- C/C++
+
+--- 
+
+## Contato
+Você pode me achar em um dos links abaixo.
+* [LinkedIn](https://www.linkedin.com/in/hebert-luiz-cabral-da-silva-70bb234a/) 
+* [Telegram](https://t.me/cienlouco) `t.me/cielouco`
+* [Facebook](https://fb.com/cienlouco) `fb.com/cienlouco`
+* [Instagram](https://instagram.com/cienlouco) `ig.com/cienlouco`
+
+
+
+<!-- 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -34,4 +89,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
