@@ -14,7 +14,12 @@ branches:
   only:
   - gh-pages     # test the gh-pages branch
   - /pages-(.*)/ # test every branch which starts with "pages-"
-
+  - testing
+  - /dev(.*)/
+  - /posts-(.*)/
+  - dev
+  - /(master|main)/
+  
 addons:
   apt:
     packages:
