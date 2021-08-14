@@ -2,7 +2,34 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+
+
 
 title: "Hebert L Silva"
-description: My
+description: "Minha pagina pessoal e meio que um currículo"
 is_project_page: false
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+social-network-links:
+  email: "hebert.luiz.hb@gmail.com"
+  facebook: cienlouco
+  github: hebertluiz
+  twitter: cienlouco
+  patreon: hevsavets
+  instagram: cienlouco
+  telegram: cienlouco
+  
