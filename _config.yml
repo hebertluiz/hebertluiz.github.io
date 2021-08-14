@@ -6,10 +6,10 @@ title: "Hebert L Silva"
 description: "Minha pagina pessoal e meio que um currículo"
 is_project_page: false
 
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
 
 social-network-links:
   email: "hebert.luiz.hb@gmail.com"
