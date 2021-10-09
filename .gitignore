@@ -2,6 +2,7 @@
 _site/
 *-cache/
 .jekyll-metadata
+_jekyll_site
 Gemfile.lock
 
 # Ruby

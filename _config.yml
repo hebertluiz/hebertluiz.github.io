@@ -3,28 +3,26 @@ plugins:
 - jekyll-remote-theme
 
 
+exclude:
+- Gemfile
+- Gemfile.lock
+- docker-compose.yaml
+- Dockerfile
+- .travis.yml
+- script/
+- README.md
+
+
+
 show_downloads: false
+show_github_repo_link: false
 
 github:
   is_project_page: false
   is_user_page: true
-  repository_url: 'https://github.com/hebertluiz/'
+  repository_url: 'https://github.com/hebertluiz/hebertluiz.github.io'
 
 title: "Hebert L Silva"
 description: "Minha pagina pessoal e meio que um currículo"
 
-
-# share-links-active:
-#   twitter: true
-#   facebook: true
-#   linkedin: true
-
-social-network-links:
-  email: "hebert.luiz.hb@gmail.com"
-  facebook: cienlouco
-  github: hebertluiz
-  twitter: cienlouco
-  patreon: hevsavets
-  instagram: cienlouco
-  telegram: cienlouco
   

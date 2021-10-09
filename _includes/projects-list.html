@@ -1,0 +1,15 @@
+{%- if site.data.projects-list -%}
+    <div class="projects-index">
+        <ul>
+        {%- assign plist = site.data.projects-list -%}
+        {% for entry in plist %}
+            {%- assign key = entry | first -%}
+            {%- if plist[key].id -%}
+                <li>
+                    <a href="{{ plist[key].url}}" title="{{ plist[key].title }}">{{ plist[key].name }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+{%- endif -%}
