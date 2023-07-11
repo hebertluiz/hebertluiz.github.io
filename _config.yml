@@ -20,7 +20,7 @@ exclude:
 
 
 show_downloads: false
-show_github_repo_link: false
+show_github_repo_link: true
 
 github:
   is_project_page: false
